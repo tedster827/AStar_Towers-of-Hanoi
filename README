@@ -1,0 +1,3 @@
+compile cmd:
+
+g++ -o TowersFinalExeEmpress Towers-WO-WP.cpp
