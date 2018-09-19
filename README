@@ -3,6 +3,7 @@ compile cmd:
 g++ -o TowersFinalExeEmpress Towers-WO-WP.cpp
 
 The program was written in C++ and was concerned with weighted values with in f(x) = g(x) + h(x). 
-h(x) was the most critical element within this project because it would predict how many more moves it would take to reach a goal state. 
+h(x) was the most critical element within this project because it would predict 
+how many more moves it would take to reach a goal state. 
 g(x) was the total amount of used moved and f(x) would simply represent the total. 
 This was my final project for my Graduate Level Artificial Intelligence class.
